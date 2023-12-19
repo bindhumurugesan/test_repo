@@ -1,0 +1,3 @@
+Directory changed to test_repo
+Git initialization done successfully
+created 2 files in working directory
